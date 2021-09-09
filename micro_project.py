@@ -1,4 +1,5 @@
 from Myrobot_control_class import RobotControl
+
 rc = RobotControl()
 
 class OutOfMaze:
